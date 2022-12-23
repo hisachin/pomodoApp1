@@ -1,0 +1,29 @@
+.btn {
+  width: 100px;
+  height: 50px;
+  padding: 10px;
+  text-transform: capitalize;
+  border: 1px solid #c2c2c2;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: tomato;
+  color: #000;
+}
+
+.btn-secondary {
+  background-color: gray;
+  color: #fff;
+}
+
+.btn-warning {
+  background-color: yellow;
+  color: #000;
+}
+
+.btn-error {
+  background-color: red;
+  color: #000;
+}

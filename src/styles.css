@@ -1,0 +1,32 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.btn-container {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+}
+
+.counter-text {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin: 1rem;
+}
+
+.counter-text-minute {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.counter-text-second {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.counter-text-seperator {
+  display: flex;
+  align-items: center;
+}
